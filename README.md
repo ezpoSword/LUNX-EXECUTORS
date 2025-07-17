@@ -15,7 +15,7 @@ I
 
 
 ## 🛠 Developer  
-This project was created by **FGFS - Captain Deniz**.  
+This project was created by **Experience Captain_CSG - Deniz**.  
 ##  
 ## - status: [on discord CLICK ME! ](https://discord.gg/Sm6mG3pg)
 
